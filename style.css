@@ -1,0 +1,36 @@
+ 
+ 
+ h1{
+     text-align: center;
+     color: rgb(38, 184, 128);
+     font-family: 'Qwitcher Grypen', cursive;
+ }
+ td{
+     background-color: black;
+    height: 300px;
+     width: 150px;
+     border: 5px solid white;
+     margin: 20px;
+
+
+ }
+ .art{
+     margin: auto;
+ }
+ #one{
+     background-color: rgb(235, 227, 217);
+ }
+ #two{
+     background-color: #325FA2;
+ }
+ #three{
+     background-color: #143642;
+
+ }
+ #four{
+     background-color: #EC9A29;
+     
+ }
+ #five{
+     background-color: #A8201A;
+ }
